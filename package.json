@@ -1,0 +1,24 @@
+{
+  "name": "mlx90614",
+  "version": "0.0.1",
+  "description": "Driver for the MLX90614 Infrared Temperature Sensor",
+  "main": "mlx90614-driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "i2c",
+    "mlx90614",
+    "mlx",
+    "ir",
+    "infared",
+    "temperature",
+    "sensor"
+  ],
+  "author": "Prosper Van",
+  "license": "ISC"
+}
