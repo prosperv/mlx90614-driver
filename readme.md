@@ -8,6 +8,7 @@ Datasheet available [ via from melexis](https://www.melexis.com/en/product/MLX90
 
 ## Install
 ```
+TODO Use git clone for now.
 $ npm install mlx90614-driver
 ```
 #### Raspberry PI
