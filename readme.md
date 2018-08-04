@@ -13,10 +13,11 @@ $ npm install mlx90614-driver
 ```
 ### Alternative
 ```
-$ git clone https://github.com/prosperv/mlx90614-driver.git
 $ cd <your-user-node-directory>
+$ git clone https://github.com/prosperv/mlx90614-driver.git
 $ npm install <path-to-mlx90614-driver>
 ```
+Note: If you are installing the node module locally, the repo needs to be inside due to how node.js looks for packages.
 
 #### Raspberry PI
 Enable [i2c on your Pi](https://github.com/kelly/node-i2c#raspberry-pi-setup) if you haven't done already. To avoid having to run the i2c tools as root add the ‘pi’ user to the i2c group:
